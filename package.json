@@ -1,0 +1,11 @@
+{
+  "name": "opam-file-format-bs",
+  "version": "2.0.0~beta3",
+  "repository": "https://github.com/wokalski/opam-file-format-bs.git",
+  "author": "Wojtek Czekalski <me@wczekalski.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^1.7.3"
+  },
+  "files": ["lib"]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "opam-file-format-bs",
+    "reason": {
+        "react-jsx": true
+    },
+    "sources": [{
+        "dir": "opam-file-format/src",
+    }, {
+        "dir": "src"
+    }]
+}
